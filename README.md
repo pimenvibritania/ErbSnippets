@@ -1,5 +1,5 @@
 # ErbSnippets
-Rails (html.erb) snippets for VSCode
+Rails (html.erb) HTML snippets for VSCode
 
 ** goto file>Preferences>User Snippets<br>
 ** New Global Snippets Name..<br>
